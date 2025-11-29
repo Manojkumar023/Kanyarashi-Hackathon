@@ -9,7 +9,7 @@ The "House Price Prediction" project aims to develop a model that can accurately
 
 ## Key Features
 
-- **Data Collection and Processing:** The project utilizes the "California Housing" dataset, which can be directly downloaded from the Scikit-learn library. The dataset contains features such as house age, number of rooms, population, and median income. Using Pandas, the data is processed and transformed to ensure it is suitable for analysis.
+- **Data Collection and Processing:** The project utilizes the "California Housing" dataset, which can be directly downloaded from the Scikit-learn library, which is also available in Kaggle datasets. The dataset contains features such as house age, number of rooms, population, and median income. Using Pandas, the data is processed and transformed to ensure it is suitable for analysis.
 
 - **Data Visualization:** The project employs data visualization techniques to gain insights into the dataset. Matplotlib and Seaborn are utilized to create visualizations such as histograms, scatter plots, and correlation matrices. These visualizations provide a deeper understanding of the relationships between features and help identify trends and patterns.
 
